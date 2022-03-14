@@ -2,7 +2,7 @@
 
 **
 
-# 🛎️🛎️ Good news! New & improved [V2](https://github.com/issaafalkattan/react-landing-page-template-2021) is out  
+# 🛎️🛎️ Good news! New & improved [V3](https://github.com/Shadman-2021/React-Landing-Page-Template-master) is out  
 
 **
 
@@ -31,4 +31,4 @@ You can also change styles by modifying the ```public/css``` files.
 ##### Free CSS 
 <a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
 
-##### Issaaf kattan
+##### Shadman Ahsan
